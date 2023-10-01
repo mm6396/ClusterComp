@@ -1,0 +1,4 @@
+D1_Ranking: Agglomerative DBSCAN KMeans FCM BIRCH GMM KMedoids OPTICS
+D2_Ranking: Agglomerative DBSCAN GMM FCM KMeans BIRCH KMedoids OPTICS
+D3_Ranking: Agglomerative DBSCAN FCM KMeans KMedoids GMM BIRCH OPTICS
+D4_Ranking: Agglomerative GMM BIRCH DBSCAN KMeans FCM KMedoids OPTICS
