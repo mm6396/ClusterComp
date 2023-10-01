@@ -1,3 +1,3 @@
-M_final: Agglomerative, BIRCH, FCM, KMeans, KMedoids, GMM, DBSCAN, OPTICS
+M_final: Agglomerative, BIRCH, FCM, GMM, KMeans, KMedoids, DBSCAN, OPTICS
 H_final: Agglomerative, BIRCH, FCM, KMeans, KMedoids, GMM, DBSCAN, OPTICS
 HM_final: Agglomerative, FCM, GMM, KMeans, BIRCH, KMedoids, DBSCAN, OPTICS
