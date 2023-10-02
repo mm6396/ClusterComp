@@ -1,0 +1,4 @@
+A1 : "3,euclidean,average" "3,manhattan,complete" "3,manhattan,average" "3,euclidean,complete" "3,euclidean,ward"
+A2 : "3,manhattan,average" "3,euclidean,average" "3,manhattan,complete" "3,euclidean,complete" "3,euclidean,ward"
+A3 : "3,euclidean,average" "3,manhattan,average" "3,manhattan,complete" "3,euclidean,complete" "3,euclidean,ward"
+A4 : "3,manhattan,average" "3,euclidean,average" "3,euclidean,complete" "3,manhattan,complete" "3,euclidean,ward"
