@@ -1,0 +1,4 @@
+A1 : "3,tied,100" "3,tied,200" "3,tied,300" "3,spherical,300" "3,spherical,200" "3,spherical,100" "3,diag,200" "3,diag,300" "3,diag,100" "3,full,200" "3,full,300" "3,full,100"
+A2 : "3,tied,100" "3,tied,300" "3,tied,200" "3,spherical,200" "3,spherical,300" "3,spherical,100" "3,diag,200" "3,diag,100" "3,diag,300" "3,full,300" "3,full,100" "3,full,200"
+A3 : "3,spherical,200" "3,spherical,100" "3,spherical,300" "3,diag,100" "3,diag,200" "3,diag,300" "3,tied,300" "3,tied,100" "3,tied,200" "3,full,300" "3,full,200" "3,full,100"
+A4 : "3,tied,200" "3,tied,300" "3,tied,100" "3,diag,100" "3,full,100" "3,spherical,100" "3,diag,300" "3,full,300" "3,full,200" "3,spherical,300" "3,spherical,200" "3,diag,200"

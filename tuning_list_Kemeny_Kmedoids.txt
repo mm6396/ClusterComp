@@ -1,4 +1,0 @@
-A1 : "3,random,100,42" "3,random,200,42" "3,random,100,0" "3,random,200,0"
-A2 : "3,random,100,42" "3,random,200,42" "3,random,100,0" "3,random,200,0"
-A3 : "3,random,100,0" "3,random,100,42" "3,random,200,0" "3,random,200,42"
-A4 : "3,random,100,42" "3,random,200,42" "3,random,100,0" "3,random,200,0"
