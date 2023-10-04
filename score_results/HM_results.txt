@@ -1,0 +1,3 @@
+Sil: 'Agglomerative' 'DBSCAN' 'KMeans' 'BIRCH' 'FCM' 'GMM' 'KMedoids' 'OPTICS'
+DB: 'Agglomerative' 'GMM' 'BIRCH' 'KMeans' 'FCM' 'KMedoids' 'OPTICS' 'DBSCAN'
+CH: 'KMeans' 'FCM' 'KMedoids' 'BIRCH' 'GMM' 'Agglomerative' 'DBSCAN' 'OPTICS'
