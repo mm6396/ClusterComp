@@ -1,3 +1,3 @@
-Sil: '"DBSCAN"' '"Agglomerative"' '"OPTICS"' '"KMedoids"' '"KMeans"' '"GMM"' '"FCM"' '"BIRCH"'
-DB: '"Agglomerative"' '"OPTICS"' '"KMedoids"' '"KMeans"' '"GMM"' '"FCM"' '"DBSCAN"' '"BIRCH"'
-CH: '"FCM"' '"OPTICS"' '"KMedoids"' '"KMeans"' '"GMM"' '"DBSCAN"' '"BIRCH"' '"Agglomerative"'
+Sil: '"Agglomerative"' '"BIRCH"' '"KMeans"' '"FCM"' '"KMedoids"' '"DBSCAN"' '"GMM"' '"OPTICS"'
+DB: '"Agglomerative"' '"BIRCH"' '"GMM"' '"KMeans"' '"FCM"' '"KMedoids"' '"DBSCAN"' '"OPTICS"'
+CH: '"FCM"' '"KMeans"' '"KMedoids"' '"GMM"' '"BIRCH"' '"Agglomerative"' '"DBSCAN"' '"OPTICS"'
