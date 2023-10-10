@@ -1,4 +1,4 @@
-D1_Ranking: "Agglomerative" "DBSCAN" "KMeans" "FCM" "GMM" "KMedoids" "BIRCH" "OPTICS"
+D1_Ranking: "Agglomerative" "DBSCAN" "GMM" "KMeans" "FCM" "KMedoids" "BIRCH" "OPTICS"
 D2_Ranking: "Agglomerative" "DBSCAN" "BIRCH" "GMM" "FCM" "KMeans" "KMedoids" "OPTICS"
-D3_Ranking: "DBSCAN" "Agglomerative" "KMeans" "FCM" "KMedoids" "GMM" "BIRCH" "OPTICS"
+D3_Ranking: "DBSCAN" "Agglomerative" "GMM" "KMeans" "FCM" "KMedoids" "BIRCH" "OPTICS"
 D4_Ranking: "DBSCAN" "Agglomerative" "GMM" "KMeans" "FCM" "BIRCH" "KMedoids" "OPTICS"
