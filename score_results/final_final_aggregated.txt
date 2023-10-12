@@ -1,3 +1,1 @@
 M_final: "Agglomerative" "FCM" "KMeans" "BIRCH" "GMM" "DBSCAN" "KMedoids" "OPTICS"
-H_final: "KMeans" "Agglomerative" "FCM" "BIRCH" "GMM" "DBSCAN" "KMedoids" "OPTICS"
-HM_final: "KMeans" "Agglomerative" "FCM" "GMM" "BIRCH" "KMedoids" "DBSCAN" "OPTICS"

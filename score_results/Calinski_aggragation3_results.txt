@@ -1,0 +1,3 @@
+caliski_M: '"FCM"' '"KMeans"' '"KMedoids"' '"GMM"' '"BIRCH"' '"Agglomerative"' '"DBSCAN"' '"OPTICS"'
+calinski_H: '"FCM"' '"KMeans"' '"KMedoids"' '"GMM"' '"BIRCH"' '"Agglomerative"' '"DBSCAN"' '"OPTICS"'
+calinski_HM: '"KMeans"' '"FCM"' '"KMedoids"' '"GMM"' '"BIRCH"' '"Agglomerative"' '"DBSCAN"' '"OPTICS"'

@@ -1,0 +1,3 @@
+Sil_M: '"DBSCAN"' '"Agglomerative"' '"BIRCH"' '"KMeans"' '"FCM"' '"GMM"' '"KMedoids"' '"OPTICS"'
+Sil_H: '"DBSCAN"' '"Agglomerative"' '"BIRCH"' '"KMeans"' '"FCM"' '"GMM"' '"KMedoids"' '"OPTICS"'
+Sil_HM: '"DBSCAN"' '"Agglomerative"' '"GMM"' '"KMeans"' '"FCM"' '"BIRCH"' '"KMedoids"' '"OPTICS"'

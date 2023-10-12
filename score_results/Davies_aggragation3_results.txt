@@ -1,0 +1,3 @@
+Davies_M: '"Agglomerative"' '"GMM"' '"BIRCH"' '"FCM"' '"KMeans"' '"KMedoids"' '"DBSCAN"' '"OPTICS"'
+Davies_H: '"Agglomerative"' '"BIRCH"' '"GMM"' '"KMeans"' '"FCM"' '"KMedoids"' '"DBSCAN"' '"OPTICS"'
+Davies_HM: '"Agglomerative"' '"BIRCH"' '"FCM"' '"KMeans"' '"GMM"' '"KMedoids"' '"OPTICS"' '"DBSCAN"'

@@ -1,0 +1,3 @@
+Sil_aggre: '"DBSCAN"' '"Agglomerative"' '"KMeans"' '"BIRCH"' '"GMM"' '"FCM"' '"KMedoids"' '"OPTICS"'
+Davies_aggre '"Agglomerative"' '"BIRCH"' '"GMM"' '"FCM"' '"KMeans"' '"KMedoids"' '"DBSCAN"' '"OPTICS"'
+Calisnki_aggre '"FCM"' '"KMeans"' '"KMedoids"' '"GMM"' '"BIRCH"' '"Agglomerative"' '"DBSCAN"' '"OPTICS"'
